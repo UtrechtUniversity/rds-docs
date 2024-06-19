@@ -1,4 +1,6 @@
-# Home
+# Knowledge Item 1
+
+## Hello World!
 
 This is a wiki / knowledge base for all things related to Research Data Management. 
 

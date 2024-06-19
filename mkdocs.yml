@@ -1,17 +1,18 @@
-site_name: RDM Wiki
+site_name: RDS Docs
 
 theme:
   name: material
   features:
   - navigation.tracking
   - navigation.top
+  - navigation.tabs
   
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: amber
-      accent: indigo
+      accent: red
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -20,7 +21,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: amber
-      accent: indigo
+      accent: red
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode

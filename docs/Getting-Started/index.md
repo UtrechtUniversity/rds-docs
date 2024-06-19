@@ -1,4 +1,6 @@
-# Home
+# Welcome
+
+## Onboarding
 
 This is a wiki / knowledge base for all things related to Research Data Management. 
 
