@@ -1,4 +1,5 @@
 site_name: RDS Docs
+site_url: https://utrechtuniversity.github.io/rds-docs/
 
 theme:
   name: material
