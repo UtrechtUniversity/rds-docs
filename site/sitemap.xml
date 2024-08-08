@@ -40,4 +40,24 @@
          <lastmod>2024-08-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://utrechtuniversity.github.io/rds-docs/blog/2024/01/31/hello-world/</loc>
+         <lastmod>2024-08-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://utrechtuniversity.github.io/rds-docs/blog/archive/2024/</loc>
+         <lastmod>2024-08-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://utrechtuniversity.github.io/rds-docs/blog/category/introductions/</loc>
+         <lastmod>2024-08-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://utrechtuniversity.github.io/rds-docs/blog/category/team-rds/</loc>
+         <lastmod>2024-08-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
