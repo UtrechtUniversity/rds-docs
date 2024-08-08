@@ -36,8 +36,8 @@ markdown_extensions:
   # - pymdownx.magiclink
   # - pymdownx.tasklist:
   #     custom_checkbox: true
-#  - pymdownx.emoji:
-#      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  #  - pymdownx.emoji:
+  #      emoji_generator: !!python/name:pymdownx.emoji.to_svg
   # - admonition
   - toc:
       permalink: true
@@ -45,3 +45,11 @@ markdown_extensions:
 plugins:
   - search
   - tags
+  - blog
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
